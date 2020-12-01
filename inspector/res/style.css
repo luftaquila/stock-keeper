@@ -1,0 +1,20 @@
+#percent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  background: rgba(150, 150, 150, 0.5);
+}
+
+#gauge {
+  transform: scale( 0.5 );
+}
+#gauge span {
+  width: 3.33em;
+  line-height: 3.33em;
+  font-size: 0.3em;
+}

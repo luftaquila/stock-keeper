@@ -1,0 +1,211 @@
+                                         
+--- krx.co.kr ping statistics ---                                                             
+100 packets transmitted, 100 received, 0% packet loss, time 99159ms                           
+rtt min/avg/max/mdev = 2.613/3.272/6.534/0.815 ms  
+
+
+PING krx.co.kr (23.59.72.152) 56(84) bytes of data.                                           
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=1 tt
+l=52 time=2.88 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=2 tt
+l=52 time=2.94 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=3 tt
+l=52 time=3.30 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=4 tt
+l=52 time=3.39 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=5 tt
+l=52 time=3.71 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=6 tt
+l=52 time=3.33 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=7 tt
+l=52 time=2.81 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=8 tt
+l=52 time=3.28 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=9 tt
+l=52 time=5.60 ms                                                                             
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=10 t
+tl=52 time=2.86 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=11 t
+tl=52 time=3.33 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=12 t
+tl=52 time=2.78 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=13 t
+tl=52 time=4.26 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=14 t
+tl=52 time=2.72 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=15 t
+tl=52 time=2.63 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=16 t
+tl=52 time=2.82 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=17 t
+tl=52 time=2.70 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=18 t
+tl=52 time=6.53 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=19 t
+tl=52 time=2.74 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=20 t
+tl=52 time=2.74 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=21 t
+tl=52 time=2.73 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=22 t
+tl=52 time=2.78 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=23 t
+tl=52 time=6.32 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=24 t
+tl=52 time=5.80 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=25 t
+tl=52 time=2.92 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=26 t
+tl=52 time=3.53 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=27 t
+tl=52 time=3.19 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=28 t
+tl=52 time=3.43 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=29 t
+tl=52 time=2.79 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=30 t
+tl=52 time=3.85 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=31 t
+tl=52 time=2.76 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=32 t
+tl=52 time=2.72 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=33 t
+tl=52 time=3.46 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=34 t
+tl=52 time=3.33 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=35 t
+tl=52 time=4.70 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=36 t
+tl=52 time=3.03 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=37 t
+tl=52 time=5.78 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=38 t
+tl=52 time=3.48 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=39 t
+tl=52 time=2.94 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=40 t
+tl=52 time=2.63 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=41 t
+tl=52 time=3.44 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=42 t
+tl=52 time=2.89 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=43 t
+tl=52 time=2.73 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=44 t
+tl=52 time=2.61 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=45 t
+tl=52 time=2.82 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=46 t
+tl=52 time=2.95 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=47 t
+tl=52 time=3.62 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=48 t
+tl=52 time=2.83 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=49 t
+tl=52 time=2.80 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=50 t
+tl=52 time=2.83 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=51 t
+tl=52 time=3.58 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=52 t
+tl=52 time=3.27 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=53 t
+tl=52 time=3.02 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=54 t
+tl=52 time=2.74 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=55 t
+tl=52 time=2.76 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=56 t
+tl=52 time=3.24 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=57 t
+tl=52 time=3.36 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=58 t
+tl=52 time=2.72 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=59 t
+tl=52 time=2.80 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=60 t
+tl=52 time=2.75 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=61 t
+tl=52 time=2.83 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=62 t
+tl=52 time=2.76 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=63 t
+tl=52 time=2.74 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=64 t
+tl=52 time=2.76 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=65 t
+tl=52 time=3.04 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=66 t
+tl=52 time=2.73 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=67 t
+tl=52 time=2.69 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=68 t
+tl=52 time=3.30 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=69 t
+tl=52 time=4.42 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=70 t
+tl=52 time=2.67 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=71 t
+tl=52 time=3.68 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=72 t
+tl=52 time=3.05 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=73 t
+tl=52 time=2.76 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=74 t
+tl=52 time=4.87 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=75 t
+tl=52 time=3.58 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=76 t
+tl=52 time=3.19 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=77 t
+tl=52 time=2.99 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=78 t
+tl=52 time=2.82 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=79 t
+tl=52 time=2.83 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=80 t
+tl=52 time=3.10 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=81 t
+tl=52 time=3.16 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=82 t
+tl=52 time=3.62 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=83 t
+tl=52 time=2.73 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=84 t
+tl=52 time=2.78 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=85 t
+tl=52 time=2.96 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=86 t
+tl=52 time=2.78 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=87 t
+tl=52 time=4.50 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=88 t
+tl=52 time=3.05 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=89 t
+tl=52 time=3.10 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=90 t
+tl=52 time=2.86 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=91 t
+tl=52 time=2.67 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=92 t
+tl=52 time=3.18 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=93 t
+tl=52 time=2.94 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=94 t
+tl=52 time=2.73 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=95 t
+tl=52 time=2.82 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=96 t
+tl=52 time=5.46 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=97 t
+tl=52 time=3.90 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=98 t
+tl=52 time=2.84 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=99 t
+tl=52 time=3.24 ms                                                                            
+64 bytes from a23-59-72-152.deploy.static.akamaitechnologies.com (23.59.72.152): icmp_seq=100 
+ttl=52 time=3.43 ms                                                                           
+                                                                                              
+--- krx.co.kr ping statistics ---                                                             
+100 packets transmitted, 100 received, 0% packet loss, time 99159ms                           
+rtt min/avg/max/mdev = 2.613/3.272/6.534/0.815 ms  
